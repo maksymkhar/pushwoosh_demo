@@ -1,0 +1,15 @@
+{
+  "name": "pushwoosh_demo",
+  "description": "A Vue.js project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/maksymkhar/pushwoosh_demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
